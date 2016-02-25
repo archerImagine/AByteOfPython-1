@@ -35,7 +35,7 @@ Some example of Literals are.
 
 * `5`, the number `5` is a literals.
 * `1.23`, this floating point number is also a literal.
-* '"This is a string"', this string is also a literal.
+* `"This is a string"`, this string is also a literal.
 
 Why we call all these as literals because these values never changes, a `5` is always `5` it cannot be `6` or `7`. Also literal are constant because we cannot change its value.
 
@@ -111,6 +111,7 @@ We can also escape the normal behavior by the use of `\` character.
 
 If we want a string to behave just like a string without the escape sequence we can use the string appended with `r` like `r"NewLines are indicated by \n"` will output like `NewLines are indicated by \n`
 
+The raw string is very helpful in case of using regular expression.
 
 ## Variable ##
 
