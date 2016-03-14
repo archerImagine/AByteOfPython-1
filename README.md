@@ -8,4 +8,9 @@ Learning and Notes for the popular Python Starting book, A Byte of Python by Swa
 * [Chapter 05 | Basics ](Chapter_05/ReadMe.md)
 * [Chapter 06 | Operators and Expressions ](Chapter_06/ReadMe.md)
 
+## Reference ##
+
+* [Python Notes](http://www.thomas-cokelaer.info/tutorials/python/index.html)
+
+
 
