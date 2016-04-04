@@ -7,6 +7,7 @@ Learning and Notes for the popular Python Starting book, A Byte of Python by Swa
 * [Chapter 04 | First Steps ](Chapter_04/ReadMe.md)
 * [Chapter 05 | Basics ](Chapter_05/ReadMe.md)
 * [Chapter 06 | Operators and Expressions ](Chapter_06/ReadMe.md)
+* [Chapter 07 | Control Flow](Chapter_07/ReadMe.md)
 
 ## Reference ##
 
